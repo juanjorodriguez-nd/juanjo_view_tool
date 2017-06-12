@@ -6,12 +6,12 @@ require 'juanjo_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "juanjo_view_tool"
   spec.version       = JuanjoViewTool::VERSION
-  spec.authors       = ["Jordan Hudgens"]
-  spec.email         = ["jordan@devcamp.com"]
+  spec.authors       = ["JuanJo Rodriguez"]
+  spec.email         = ["juanjo@juanjo.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various vies specific methods I use.}
+  spec.description   = %q{Provides generated HTML data for Rails applications}
+  spec.homepage      = "https://nouvodev.com"
   spec.license       = "MIT"
 
 

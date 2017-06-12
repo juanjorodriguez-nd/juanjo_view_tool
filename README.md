@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JuanJoViewTool::Renderer.copyright 'JuanJo Rodriguez', 'All rights reserved'
+```
 
 ## Development
 
