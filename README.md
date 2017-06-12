@@ -1,6 +1,6 @@
 # JuanjoViewTool
 
->Various vies specific methods I use.
+>Various views specific methods I use.
 
 ## Installation
 
